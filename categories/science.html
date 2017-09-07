@@ -1,10 +1,11 @@
 ---
 layout: categories
-title: Archives
-thumbnail: city2.jpg
+title: Artificial Science
+thumbnail: breakfast-orange-lemon-oranges-large.jpg
 ---
 
-{% for post in site.posts %}
+<!-- **User Input** Adjust the category filter by changing `site.categories.[thisValue]` -->
+{% for post in site.categories.science %}
   <div class='listing'>
     <a class='post-title' href='{{ post.url }}'>{{ post.title }}</a>
     <p class='meta'>{{ post.date | date_to_long_string }} / by {{ post.author }}</p>
