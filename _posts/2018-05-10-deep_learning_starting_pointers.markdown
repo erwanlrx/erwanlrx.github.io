@@ -25,7 +25,7 @@ author: Erwan Le Roux
    <a href="http://www.arxiv-sanity.com/"> Arxiv sanity </a>  tool.
    Also, <a href="https://jack-clark.net/import-ai/"> Jack Clark</a>  
   and <a href="https://www.getrevue.co/profile/wildml"> Denny Britz </a> 
-  newletters make it possible to follow the increasing pace of AI. </br></p>
+  newletters make it possible to follow the increasing pace of AI. </p>
   
 
 <p> Ending song: <a href="https://www.youtube.com/watch?v=3b-MtyYZiYA&list=LLPWIyZdjq_P-0zkk6UynWHA"> Ara Koufax - Shades of Blue </a>  </p>
