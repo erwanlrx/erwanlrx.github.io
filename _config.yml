@@ -4,8 +4,8 @@ exclude: ["node_modules", "gulpfile.js", "package.json"]
 
 # Jekyll Defaults
 title: reconnaiction
-email: your-email@domain.com
-description: A small and simple site I made to test out Jekyll. Watch out! I'm going to make a material design theme next!
+email: erwan.le.roux7@gmail.com
+description: Personnal blog
 baseurl: "" # the subpath of your site, e.g. /blog
 
 # Where can people find your site?
