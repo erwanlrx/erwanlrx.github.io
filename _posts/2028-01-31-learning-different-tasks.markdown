@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: brouillon
 title:  "Learning different tasks"
 date:   2028-01-01 01:11:03
 description: Phasellus hendrerit. Pellent aliquet nibh nec urna. In nis aliquet vel, dapibus id,mattis.
