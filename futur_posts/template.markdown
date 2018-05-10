@@ -1,7 +1,7 @@
 ---
-layout: brouillon
+layout: post
 title:  "Learning different tasks"
-date:   2028-01-01 01:11:03
+date:   2028-01-31 01:11:03
 description: Phasellus hendrerit. Pellent aliquet nibh nec urna. In nis aliquet vel, dapibus id,mattis.
 thumbnail: neural_girl_forest.jpg
 categories: science
