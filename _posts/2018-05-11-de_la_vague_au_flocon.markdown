@@ -1,0 +1,30 @@
+---
+layout: post
+title:  "De la vague au flocon"
+date:   2018-05-11 01:11:03
+description: Blog introduction
+thumbnail: la-horde-du-contrevent.jpg
+categories: society
+
+# Information for the author block
+author: Erwan Le Roux
+---
+
+ 
+Starting song: [Izia - La vague][link1] <br/>
+
+Voguer sur des flots vagues vers la fable rechauffée
+
+Fuir ces fausses nouveautés via un devenir fécond
+
+Voyage créatif fixe, fleur des neiges assoiffées
+
+Flux de vive vitalité, de la vague au flocon <br/>
+
+Ending song: [Worakls - Flocon De Neige][link2]
+
+
+
+[link1]: https://www.youtube.com/watch?v=7MudfCf1rAU
+
+[link2]: https://www.youtube.com/watch?v=Dc5JaMw3b-8
