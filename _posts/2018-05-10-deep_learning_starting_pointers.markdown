@@ -27,6 +27,7 @@ author: Erwan Le Roux
   and <a href="https://www.getrevue.co/profile/wildml"> Denny Britz </a> 
   newletters make it possible to follow the increasing pace of AI. </p>
   
+![](/assets/img/notes.png){:height="20px" width="20px"} [Ara Koufax - Shades of Blue][link1]
 
-<p> Ending song: <a href="https://www.youtube.com/watch?v=3b-MtyYZiYA&list=LLPWIyZdjq_P-0zkk6UynWHA"> Ara Koufax - Shades of Blue </a>  </p>
+[link1]: https://www.youtube.com/watch?v=3b-MtyYZiYA&list=LLPWIyZdjq_P-0zkk6UynWHA
   

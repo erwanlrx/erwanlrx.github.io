@@ -11,7 +11,7 @@ author: Erwan Le Roux
 ---
 
  
-Starting song: [Izia - La vague][link1] <br/>
+![](/assets/img/notes.png){:height="20px" width="20px"} [Izia - La vague][link1] <br/>
 
 Voguer sur des flots vagues vers la fable rechauffée
 
@@ -21,7 +21,7 @@ Voyage créatif fixe, fleur des neiges assoiffées
 
 Flux de vive vitalité, de la vague au flocon <br/>
 
-Ending song: [Worakls - Flocon De Neige][link2]
+![](/assets/img/notes.png){:height="20px" width="20px"} [Worakls - Flocon De Neige][link2]
 
 
 
