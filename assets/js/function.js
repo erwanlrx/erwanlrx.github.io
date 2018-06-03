@@ -6,7 +6,8 @@ $(function() {
         $('.topBar').removeClass('hidden');
     } else {
         $('.topBar').addClass('hidden');
-    }
+   }
+  });
 });
 // Push out menu
 $(document).ready(function() {
