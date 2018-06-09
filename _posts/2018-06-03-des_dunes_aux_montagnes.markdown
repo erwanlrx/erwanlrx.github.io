@@ -15,7 +15,7 @@ author: Erwan Le Roux
 
 Deformé par l'ascension des mirages du désert
 
-Mes sens ne saisissent les dissonant mythes de la gagne 
+Mes sens n'assimilent plus les dissonant mythes de la gagne
 
 Dépoussiérant les sables sineux, je me ressaisis d'une pierre
 
