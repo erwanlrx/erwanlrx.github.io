@@ -15,9 +15,9 @@ author: Erwan Le Roux
 
 Deformé par l'ascension des mirages du désert
 
-Malade de vertiges entre la mort et le bagne
+Mes sens ne saisissent les dissonant mythes de la gagne 
 
-D'une prise absurde, je soulève ma pierre
+Dépoussiérant les sables sineux, je me ressaisis d'une pierre
 
 Montée libératrice, des dunes aux montagnes
 
