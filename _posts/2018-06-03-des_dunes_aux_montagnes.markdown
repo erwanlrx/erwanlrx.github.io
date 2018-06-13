@@ -2,7 +2,7 @@
 layout: post
 title:  "Des dunes aux montagnes"
 date:   2018-06-03 01:11:03
-description: Poésie des flux
+description: De l'inertie aux flux
 thumbnail: dunes.jpg
 categories: society
 

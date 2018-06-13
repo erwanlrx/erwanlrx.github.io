@@ -2,7 +2,7 @@
 layout: post
 title:  "De la vague au flocon"
 date:   2018-05-11 01:11:03
-description: Poésie des flux
+description: De l'inertie aux flux
 thumbnail: la-horde-du-contrevent.jpg
 categories: society
 
