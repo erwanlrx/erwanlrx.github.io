@@ -15,11 +15,11 @@ author: Erwan Le Roux
 
 Deformé par l'ascension des mirages du désert
 
-Mes sens n'assimilent plus les dissonant mythes de la gagne
+Malade de déni, myope des mythes de la gagne 
 
-Dépoussiérant les sables sineux, je me ressaisis d'une pierre
+Diverger d'une mort au monde, Se ressaisir d’une pierre 
 
-Montée libératrice, des dunes aux montagnes
+Montée déraisonnable, des dunes aux montagnes
 
 ![](/assets/img/notes.png){:height="20px" width="20px"} [Thylacine - Mountains][link2] 
 
