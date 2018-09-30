@@ -21,7 +21,7 @@ Minimalisme, altruisme, pacifisme, moteurs de la contre-action
 
 Puissances compressives, des murs à la poussière
 
-![](/assets/img/notes.png){:height="20px" width="20px"} [Portico Quartet - Dust][link1] 
+![](/assets/img/notes.png){:height="20px" width="20px"} [Portico Quartet - Dust][link2] 
 
 [link1]: https://www.youtube.com/watch?v=BdF41Ne2cnQ
 [link2]: https://soundcloud.com/porticoquartet/dust-1

@@ -21,7 +21,7 @@ Entreprendre sans espérer, liberté d’un dynamisme enragé
 
 N’être qu’existence pure, De l'essence au néant
 
-![](/assets/img/notes.png){:height="20px" width="20px"} [Dire Straits - Money For Nothing][link1] 
+![](/assets/img/notes.png){:height="20px" width="20px"} [Dire Straits - Money For Nothing][link2] 
 
 [link1]: https://www.youtube.com/watch?v=iScSUwSZAuI
 [link2]: https://www.youtube.com/watch?v=wTP2RUD_cL0
