@@ -17,7 +17,7 @@ Filer à tombeau ouvert, fulgurant, fixé sur le maintien de la croissance
 
 Metrique chosifiante, figés sur nos montres, on en frolle l'oubli de notre matriarche
 
-Fendre son micro-cocon, freiner pour magnifier sa continuelle effervescence
+Fendre nos micro-cocons, freiner pour magnifier sa continuelle effervescence
 
 Modestement, à son rythme, forger sa voix, de la fuite à la marche
 
