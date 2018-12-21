@@ -4,7 +4,7 @@ title:  "De la fuite à la marche"
 date:   2018-09-30 01:11:03
 description: De l'inertie aux flux
 thumbnail: charvet.jpg
-categories: society
+categories: inertia_to_flux
 
 # Information for the author block
 author: Erwan Le Roux

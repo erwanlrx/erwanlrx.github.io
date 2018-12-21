@@ -4,7 +4,8 @@ title:  "De la lune à la terre"
 date:   2018-06-13 01:11:03
 description: De l'inertie aux flux
 thumbnail: earth.jpg
-categories: society
+categories: inertia_to_flux
+
 
 # Information for the author block
 author: Erwan Le Roux

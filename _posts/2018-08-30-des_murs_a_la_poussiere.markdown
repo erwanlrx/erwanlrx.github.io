@@ -4,7 +4,7 @@ title:  "Des murs à la poussière"
 date:   2018-08-30 01:11:03
 description: De l'inertie aux flux
 thumbnail: urras_and_anarres_by_ashmael.jpg
-categories: society
+categories: inertia_to_flux
 
 # Information for the author block
 author: Erwan Le Roux

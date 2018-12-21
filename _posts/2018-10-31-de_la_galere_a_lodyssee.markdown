@@ -4,7 +4,7 @@ title:  "De la galère à l'odyssée"
 date:   2018-10-31 01:11:03
 description: De l'inertie aux flux
 thumbnail: snow_storm.jpg
-categories: society
+categories: inertia_to_flux
 
 # Information for the author block
 author: Erwan Le Roux

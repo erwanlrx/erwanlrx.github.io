@@ -4,7 +4,7 @@ title:  "Des dunes aux montagnes"
 date:   2018-06-03 01:11:03
 description: De l'inertie aux flux
 thumbnail: dunes.jpg
-categories: society
+categories: inertia_to_flux
 
 # Information for the author block
 author: Erwan Le Roux
