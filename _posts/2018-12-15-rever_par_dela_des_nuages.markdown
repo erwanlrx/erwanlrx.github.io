@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Rêver au delà des nuages"
+title:  "Rêver par-delà les nuages"
 date:   2018-12-15 01:11:03
 description: Revolution de la terre
 thumbnail: cloud.jpg
@@ -22,7 +22,7 @@ Ne faire aucune concession, ne pas se laisser endormir, vivre à fond, inspirant
 
 Révolté pour changer la vie, éclairé par la riche intelligence collective de citoyens hyperempathiques
 
-Nébuleuse de feux follets: Insuffler l'energie environnante, Ne pas inventer d'idéal, Rêver par délà les nuages
+Nébuleuse de feux follets: Insuffler l'energie environnante, Ne pas inventer d'idéal, Rêver par-delà les nuages
 
 ![](/assets/img/notes.png){:height="20px" width="20px"} [Jamiroquai - Cloud 9][link2] 
 
