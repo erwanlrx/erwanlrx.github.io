@@ -1,11 +1,11 @@
 ---
 layout: categories
-title: Scientific Popularization
-thumbnail: science.jpg
+title: Publications
+thumbnail: publications.jpg
 ---
 
 <!-- **User Input** Adjust the category filter by changing `site.categories.[thisValue]` -->
-{% for post in site.categories.science %}
+{% for post in site.categories.publications %}
   <div class='listing'>
     <a class='post-title' href='{{ post.url }}'>{{ post.title }}</a>
     <p class='meta'>{{ post.date | date_to_long_string }} / by {{ post.author }}</p>

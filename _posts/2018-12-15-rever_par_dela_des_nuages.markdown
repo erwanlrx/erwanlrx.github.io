@@ -4,7 +4,7 @@ title:  "Rêver par-delà les nuages"
 date:   2018-12-15 01:11:03
 description: Revolution de la terre
 thumbnail: cloud.jpg
-categories: society
+categories: revolution_de_la_terre
 
 # Information for the author block
 author: Erwan Le Roux

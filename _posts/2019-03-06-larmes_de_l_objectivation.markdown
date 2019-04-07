@@ -4,7 +4,7 @@ title:  "Larmes de l'objectivation"
 date:   2019-03-06 01:11:03
 description: Revolution de la terre
 thumbnail: larme.jpg
-categories: society
+categories: revolution_de_la_terre
 
 # Information for the author block
 author: Erwan Le Roux

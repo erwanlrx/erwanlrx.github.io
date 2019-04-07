@@ -4,7 +4,7 @@ title:  "Juste se libérer"
 date:   2019-01-17 01:11:03
 description: Revolution de la terre
 thumbnail: tornade.jpg
-categories: society
+categories: revolution_de_la_terre
 
 # Information for the author block
 author: Erwan Le Roux
