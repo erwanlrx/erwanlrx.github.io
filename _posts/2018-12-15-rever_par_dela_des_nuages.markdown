@@ -18,11 +18,11 @@ author: Erwan Le Roux
 
 Réveil sur une planète moltonnée, égarée, obnubilée, en cordée vers le changement climatique
 
-Ne faire aucune concession, ne pas se laisser endormir, vivre à fond, inspirant seulement lors de rares renflouages
+Ne faire aucune concession, ne pas se laisser endormir, vivre à fond, inspirant lors de rares renflouages
 
-Révolté pour changer la vie, éclairé par la riche intelligence collective de citoyens hyperempathiques
+Révolté pour changer la vie, illuminé par une ruche éco-citoyenne d'oeuvriers hyperempathiques
 
-Nébuleuse de feux follets: Insuffler l'energie environnante, Ne pas inventer d'idéal, Rêver par-delà les nuages
+Nébuleuse de feux follets: Insuffler l'energie environnante, Ne pas inventer d'idéal, Rêver par délà les nuages
 
 ![](/assets/img/notes.png){:height="20px" width="20px"} [Jamiroquai - Cloud 9][link2] 
 
