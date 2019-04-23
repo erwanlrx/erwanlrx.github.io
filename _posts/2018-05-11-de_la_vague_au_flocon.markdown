@@ -28,3 +28,12 @@ Flux de vive vitalité, de la vague au flocon <br/>
 [link1]: https://www.youtube.com/watch?v=7MudfCf1rAU
 
 [link2]: https://www.youtube.com/watch?v=Dc5JaMw3b-8
+
+<br/>
+<br/>
+
+**Lectures associées**: 
+
+_La horde du contrevent_ par Alain Damasio 
+
+_Gilles Deleuze, une introduction_ par Arnaud Bouaniche

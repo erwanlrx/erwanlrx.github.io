@@ -25,3 +25,11 @@ Puissances compressives, des murs à la poussière
 
 [link1]: https://www.youtube.com/watch?v=BdF41Ne2cnQ
 [link2]: https://soundcloud.com/porticoquartet/dust-1
+
+<br/>
+<br/>
+
+
+**Lectures associées**: 
+
+_Les Dépossédés_ par Ursula K. Le Guin

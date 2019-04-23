@@ -25,3 +25,13 @@ Oser l'impossible pour éviter l'impensable, de la galère à l odyssée
 
 [link1]: https://www.youtube.com/watch?v=5apNVcyRGXk
 [link2]: https://www.youtube.com/watch?v=S2NZLSfAeIc
+
+<br/>
+<br/>
+
+
+**Lectures associées**: 
+
+_L'Odyssée_ par Homère
+
+_Ce que le mirage doit à l'oasis_ par Yasmina Khadra

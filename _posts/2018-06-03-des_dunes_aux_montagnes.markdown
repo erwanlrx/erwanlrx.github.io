@@ -27,3 +27,13 @@ Montée déraisonnable, des dunes aux montagnes
 
 [link1]: https://www.youtube.com/watch?v=gBpvzqf7Z_c
 [link2]: https://www.youtube.com/watch?v=ns0LIuBPX9Q
+
+<br/>
+<br/>
+
+**Lectures associées**: 
+
+_Le Mythe de Sisyphe_ par Albert Camus 
+
+_Dune_ par Frank Herbert
+

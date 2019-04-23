@@ -29,3 +29,13 @@ Ouragan de peurs qui renverse l'immanence et souffle les larmes de l’objectiva
 
 [link1]: https://www.youtube.com/watch?v=CH458e1Gn2w
 [link2]: https://www.youtube.com/watch?v=c9NaVWIRT0A
+
+
+**Sources associées**: 
+
+_The Wire_ par David Simon
+
+[Journée spéciale La planète se réchauffe… Comment on s'y prépare.][link3] par France Culture
+
+[link3]:https://www.franceculture.fr/ecologie-et-environnement/journee-speciale-la-planete-se-rechauffe-comment-sy-prepare
+

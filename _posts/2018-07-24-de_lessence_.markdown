@@ -25,3 +25,10 @@ N’être qu’existence pure, De l'essence au néant
 
 [link1]: https://www.youtube.com/watch?v=iScSUwSZAuI
 [link2]: https://www.youtube.com/watch?v=wTP2RUD_cL0
+
+**Lectures associées**: 
+
+<br/>
+<br/>
+
+_Etre libre avec Sartre_ par Frédéric Allouche

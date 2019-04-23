@@ -27,3 +27,16 @@ Livrer sa gêne, plus de jugement, le geste poétique: juste se libérer
 
 [link1]: https://www.youtube.com/watch?v=PqeY2mEfNMk
 [link2]: https://www.youtube.com/watch?v=_dKxbaDMpdM
+
+
+<br/>
+<br/>
+
+
+**Lectures associées**: 
+
+_S'affirmer avec Nietzsche_ par Balthasar Thomass
+
+[«J’aime l’incertitude en philosophie»][link3] par Adèle Van Reeth
+
+[link3]:http://iphilo.fr/2018/11/25/adele-van-reeth-jaime-lincertitude-en-philosophie-hocine-rahli/?fbclid=IwAR0vKfgSLVi9p4e6FZMJFbsGkLHTO-z7WMBQIZu7G5M9-RZRISPCAQyxbPU

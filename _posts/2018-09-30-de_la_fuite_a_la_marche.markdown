@@ -25,3 +25,13 @@ Modestement, à son rythme, forger sa voix, de la fuite à la marche
 
 [link1]: https://www.youtube.com/watch?v=s5SvQgwUmBQ
 [link2]: https://www.youtube.com/watch?v=8r09gAabQag
+
+<br/>
+<br/>
+
+
+**Vidéos associées**: 
+
+[Quand la Science appelle à l'aide pour l'humanité ? ][link3] Aurélien Barrau
+
+[link3]:https://www.youtube.com/watch?v=XO4q9oVrWWw

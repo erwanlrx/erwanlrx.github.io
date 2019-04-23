@@ -28,3 +28,15 @@ Nébuleuse de feux follets: Insuffler l'energie environnante, Ne pas inventer d'
 
 [link1]: https://www.youtube.com/watch?v=Yk8MsOvYns4
 [link2]: https://www.youtube.com/watch?v=fVMtKQMAZqw
+
+<br/>
+<br/>
+
+
+**Lectures associées**: 
+
+_L'Homme révolté_ par Albert Camus
+
+_La parabole du semeur_ par Octavia E. Butler
+
+_Au bal des actifs - Demain le travail_ par La Volte
