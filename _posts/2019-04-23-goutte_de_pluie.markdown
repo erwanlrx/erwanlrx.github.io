@@ -29,7 +29,10 @@ Perspective d'un glas sempiternel, d'une existence aussi éphémère qu'une gout
 [link1]: https://www.youtube.com/watch?v=6vopR3ys8Kw
 [link2]: https://www.youtube.com/watch?v=RtBbinpK5XI
 
-**Origine de l'inspiration**: 
+<br/>
+<br/>
+
+**Lectures associées**: 
 
 _Spin_ par Robert Charles Wilson 
 
