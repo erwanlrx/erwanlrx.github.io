@@ -25,7 +25,7 @@ Livrer sa gêne, plus de jugement, le geste poétique: juste se libérer
 
 ![](/assets/img/notes.png){:height="20px" width="20px"} [Pouvoir Magique - Unity (Song for Freedom)][link2] 
 
-[link1]: https://www.youtube.com/watch?v=PqeY2mEfNMk
+[link1]: https://www.youtube.com/watch?v=54_tiHj2x2w
 [link2]: https://www.youtube.com/watch?v=_dKxbaDMpdM
 
 
