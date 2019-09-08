@@ -1,0 +1,44 @@
+---
+layout: post
+title:  "Feu"
+date:   2009-12-07 16:00:00
+description: Rage de départs
+thumbnail: feu2.jpg
+categories: rages_de_departs
+
+# Information for the author block
+author: Erwan Le Roux
+---
+
+
+
+
+![](/assets/img/notes.png){:height="20px" width="20px"}[Jimi Hendrix - Fire][link1] 
+
+
+L'esprit flotte dans les airs
+
+En quête de fraiche menthe
+
+L'âme inspiratrice se libère
+
+Alors que sa main tremblante
+
+Encre sur la papier congelé
+
+Aux rythmes de pulsions enflammées
+
+Par le coeur brulant tout entier
+
+Dans les chaudes sensations rencontrées
+
+
+
+![](/assets/img/notes.png){:height="20px" width="20px"}[Kings Of Leon - Sex on Fire][link2] 
+
+[link1]: https://www.youtube.com/watch?v=ungWNR8N7iU
+[link2]: https://www.youtube.com/watch?v=RF0HhrwIwp0
+
+<br/>
+<br/>
+

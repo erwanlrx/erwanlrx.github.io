@@ -13,7 +13,7 @@ author: Erwan Le Roux
 
 
 
-![](/assets/img/notes.png){:height="20px" width="20px"} [Just Forget - Force Of Nature][link1] 
+![](/assets/img/notes.png){:height="20px" width="20px"} [Force Of Nature - Just Forget][link1] 
 
 Jouer du jazz avec son interlocuteur, surfer, jongler, suivre le flot
 

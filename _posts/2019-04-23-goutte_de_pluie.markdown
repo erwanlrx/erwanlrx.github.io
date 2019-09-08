@@ -13,7 +13,7 @@ author: Erwan Le Roux
 
 
 
-![](/assets/img/notes.png){:height="20px" width="20px"} [Drop the game - Flume][link1] 
+![](/assets/img/notes.png){:height="20px" width="20px"} [Flume - Drop the game][link1] 
 
 Glissade temporelle, d’une précieuse graine, produit d’une précipitation générationnelle
 

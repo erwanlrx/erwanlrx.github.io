@@ -26,7 +26,7 @@ Lier la grand-voile de ses valeurs: avant tout être radical avec soi-même, sur
 
 
 
-![](/assets/img/notes.png){:height="20px" width="20px"} [SAEZ Jeunesse lève-toi][link2] 
+![](/assets/img/notes.png){:height="20px" width="20px"} [Saez - Jeunesse lève-toi][link2] 
 
 [link1]: https://www.youtube.com/watch?v=DdaqFwuaY0g
 [link2]: https://www.youtube.com/watch?v=x5DpM2narOU

@@ -1,0 +1,31 @@
+---
+layout: post
+title:  "Solitude"
+date:   2009-12-07 17:00:00
+description: Rage de départs
+thumbnail: solitude2.png
+categories: rages_de_departs
+
+# Information for the author block
+author: Erwan Le Roux
+---
+
+
+
+
+![](/assets/img/notes.png){:height="20px" width="20px"}[Rone Melissa Laveaux - Golden Solitutde][link1] 
+
+Pieds nus dans le sable froid
+
+La bise glacial en bas
+
+Souffle et reste en moi
+
+![](/assets/img/notes.png){:height="20px" width="20px"}[Tame Impala - Solitude Is Bliss][link2] 
+
+[link1]: https://www.youtube.com/watch?v=_Zm9b-RZMK8
+[link2]: https://www.youtube.com/watch?v=f-uH1TAGe0I
+
+<br/>
+<br/>
+

@@ -1,0 +1,45 @@
+---
+layout: post
+title:  "Breizh"
+date:   2009-12-07 18:00:00
+description: Rage de départs
+thumbnail: breizh1.png
+categories: rages_de_departs
+
+# Information for the author block
+author: Erwan Le Roux
+---
+
+
+
+
+![](/assets/img/notes.png){:height="20px" width="20px"} [Denez Prigent - E Trouz Ar Ger][link1] 
+
+
+
+Assis sur de délicates brindilles
+
+Je comtemple ébahit de beauté
+
+Le soleil de passage qui brille
+
+En dessous, l'océan est déchainé
+
+Par le souffle animal du vent
+
+La tempete me transperse, me gagne
+
+Dans ma tete, tout est vide, blanc
+
+Quel beau spectacle la Bretagne !
+
+
+
+![](/assets/img/notes.png){:height="20px" width="20px"} [Denez Prigent - Gortoz A Ran][link2] 
+
+[link1]: https://www.youtube.com/watch?v=wXX4xyfa2Gc
+[link2]: https://www.youtube.com/watch?v=SyUcKCP7Vvw
+
+<br/>
+<br/>
+
