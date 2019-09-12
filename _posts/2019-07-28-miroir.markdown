@@ -1,0 +1,48 @@
+---
+layout: post
+title:  "Miroir"
+date:   2019-07-20 01:11:03
+description: Ô cinéma
+thumbnail: le_miroir.jpg
+categories: o_cinema
+
+# Information for the author block
+author: Erwan Le Roux
+---
+
+
+
+
+![](/assets/img/notes.png){:height="20px" width="20px"} [Hans Zimmer - Time (Inception)][link1] 
+
+
+
+Médusé face à la magie du miroir, l'homme s'ennivre de son image
+
+Il hume tout ses parfums, l'anime, dévore son regard, l'élague de son rasoir
+
+Rêveur de domination sans partage, il plonge, nage, exalté par l’appel des abîmes
+
+Ô mélodies matinales, comptines du soir, métaphores de l’humanité, et de ses folles rimes 
+
+Il y a dans ces chants l’écho de paysages, de lacs, de flammes brillant de toute leur gloire 
+
+Reflètant mutuellement la bienveillance sublime, que la nature distille à travers les âges 
+
+![](/assets/img/notes.png){:height="20px" width="20px"} [Bernard Herrmann - I Still Can't Sleep (Taxi Driver)][link2] 
+
+[link1]: https://www.youtube.com/watch?v=RxabLA7UQ9k
+[link2]: https://www.youtube.com/watch?v=cmDgfzpKw5w
+
+<br/>
+<br/>
+
+**Lectures associées**: 
+
+_L'appel de la forêt_ par Jack London 
+
+_Des souris et des hommes_ par John Steinbeck
+
+_La vérité sur l'affaire Harry Quebert_ par Joël Dicker
+
+_La condition humaine_ par André Malraux
