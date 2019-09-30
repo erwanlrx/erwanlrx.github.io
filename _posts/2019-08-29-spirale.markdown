@@ -1,0 +1,44 @@
+---
+layout: post
+title:  "spirAle"
+date:   2019-08-29 01:11:03
+description: Ô cinéma
+thumbnail: climax1.jpg
+categories: o_cinema
+
+# Information for the author block
+author: Erwan Le Roux
+---
+
+
+
+
+![](/assets/img/notes.png){:height="20px" width="20px"} [Gary Jules - Mad World (Donnie Darko)][link1] 
+
+Soupirs de la nuit, sueur d’une idylle
+
+Parfum des brindilles, odeur de la pluie 
+
+Ivresse des instruits, des idées subtiles
+
+Rivière qui scintille, un rayonnement luit
+
+Amoureux on s’enduit, d’acquis inutiles
+
+Les saisons vrillent, cette liberté séduit 
+
+Étendu sans bruit, apaisé on jubile 
+
+![](/assets/img/notes.png){:height="20px" width="20px"} [Josef Van Wissem & Zola Jesus - In Templum Dei Artist  (Only Lovers Left Alive)][link2] 
+
+[link1]: https://www.youtube.com/watch?v=KL0rHIBYlY0
+[link2]: https://www.youtube.com/watch?v=LHy_AsV7UQ8
+
+<br/>
+<br/>
+
+**Lectures associées**: 
+
+_Les furtifs_ par Alain Damasio 
+
+_Être heureux avec spinoza_ par Balthasar Thomas

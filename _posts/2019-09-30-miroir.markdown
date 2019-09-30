@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Miroir"
-date:   2019-07-20 01:11:03
+date:   2019-09-30 01:11:03
 description: Ô cinéma
 thumbnail: le_miroir.jpg
 categories: o_cinema
@@ -45,4 +45,3 @@ _Des souris et des hommes_ par John Steinbeck
 
 _La vérité sur l'affaire Harry Quebert_ par Joël Dicker
 
-_La condition humaine_ par André Malraux
