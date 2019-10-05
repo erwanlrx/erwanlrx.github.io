@@ -1,0 +1,47 @@
+---
+layout: post
+title:  "SilEnce"
+date:   2019-10-04 01:11:03
+description: Ô cinéma
+thumbnail: silence.jpg
+categories: o_cinema
+
+# Information for the author block
+author: Erwan Le Roux
+---
+
+
+
+
+![](/assets/img/notes.png){:height="20px" width="20px"} [Joe Hisaishi - Silent Love (A Scene at the Sea)][link1] 
+
+Surf, grimpe,  slalome, fend ta voie à travers le réel
+
+Il  suffit de varier sa vitesse pour fabriquer du vide
+
+Libéré, silencieusement déphasé, on contemple le ciel
+
+Envol stellaire, tel un vagabond à bord d'un asteroide
+
+Nous admirons, béats, la singularité de notre maison si belle
+
+Curieuse planète bleue, muette face à son paricide
+
+Empoisonnée par ses congénères, désoeuvrée, elle craquelle
+
+
+![](/assets/img/notes.png){:height="20px" width="20px"} [Alexandre Desplat -Elisa's Theme (The Shape Of Water)][link2] 
+
+[link1]: https://www.youtube.com/watch?v=5WZIP3jLyt8
+[link2]: https://www.youtube.com/watch?v=kaV2d8kkrAE
+
+<br/>
+<br/>
+
+**Lectures associées**: 
+
+_Le vagabond des étoiles_ par Jack London 
+
+_Comment tout peut s'effondrer_ par Pablo Servigne et Raphaël Stevens
+
+
