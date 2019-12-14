@@ -8,7 +8,7 @@ categories: inertia_to_flux
 
 
 # Information for the author block
-author: Erwan Le Roux
+author: Waren Reloux
 ---
 
  

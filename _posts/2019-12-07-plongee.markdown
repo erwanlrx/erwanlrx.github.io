@@ -1,0 +1,32 @@
+---
+layout: post
+title:  "plOngée"
+date:   2019-10-07 01:11:03
+description: Ô cinéma
+thumbnail: plongée.png
+categories: o_cinema
+
+# Information for the author block
+author: Laure Neworx
+---
+
+
+
+
+![](/assets/img/notes.png){:height="20px" width="20px"} [Marvin Gaye - Inner City Blues (Zodiac)][link1] 
+
+
+
+![](/assets/img/notes.png){:height="20px" width="20px"} [Françoise Hardy- Les temps de l'amour (Moonrise Kingdom)][link2] 
+
+[link1]: https://www.youtube.com/watch?v=57Ykv1D0qEE
+[link2]: https://www.youtube.com/watch?v=7tuLOuNaK0g
+
+<br/>
+<br/>
+
+**Lectures associées**: 
+
+
+
+

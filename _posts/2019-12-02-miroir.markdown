@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Miroir"
-date:   2019-09-30 01:11:03
+date:   2019-10-02 01:11:03
 description: Ô cinéma
 thumbnail: le_miroir.jpg
 categories: o_cinema
 
 # Information for the author block
-author: Erwan Le Roux
+author: Laure Neworx
 ---
 
 

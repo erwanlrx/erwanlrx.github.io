@@ -1,0 +1,34 @@
+---
+layout: post
+title:  "paysAge"
+date:   2019-10-01 01:11:03
+description: Ô cinéma
+thumbnail: paysage.png
+categories: o_cinema
+
+# Information for the author block
+author: Laure Neworx
+---
+
+
+
+
+![](/assets/img/notes.png){:height="20px" width="20px"} [Steppenwolf - Born To Be Wild (Easy Rider)][link1] 
+
+
+
+![](/assets/img/notes.png){:height="20px" width="20px"} [Eddie Vedder - Society (Into The Wild)][link2] 
+
+[link1]: https://www.youtube.com/watch?v=egMWlD3fLJ8
+[link2]: https://www.youtube.com/watch?v=cl4cLEToPfc
+
+<br/>
+<br/>
+
+**Lectures associées**: 
+
+_Le vagabond des étoiles_ par Jack London 
+
+_Comment tout peut s'effondrer_ par Pablo Servigne et Raphaël Stevens
+
+

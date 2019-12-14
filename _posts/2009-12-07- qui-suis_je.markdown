@@ -7,7 +7,7 @@ thumbnail: who_am_i.png
 categories: rages_de_departs
 
 # Information for the author block
-author: Erwan Le Roux
+author: Lauren Worxe
 ---
 
 

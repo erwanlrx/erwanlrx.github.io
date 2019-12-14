@@ -7,7 +7,7 @@ thumbnail: cloud.jpg
 categories: revolution_de_la_terre
 
 # Information for the author block
-author: Erwan Le Roux
+author: Arwen Roulex
 ---
 
  
