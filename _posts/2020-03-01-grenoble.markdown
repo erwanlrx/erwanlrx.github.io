@@ -1,0 +1,36 @@
+---
+layout: post
+title:  "Grenoble"
+date:   2020-03-01 01:11:03
+description: Vestige
+thumbnail: grenoble.jpg
+categories: vestige
+
+# Information for the author block
+author: Arwen Lourex
+---
+
+
+
+
+![](/assets/img/notes.png){:height="20px" width="20px"} [Bonobo - Kong][link1] 
+
+Neige sur le toît -
+
+À l'abri des tempêtes
+
+L'esprit s'enflamme
+
+![](/assets/img/notes.png){:height="20px" width="20px"}[Nicolas Jaar - Mi Mujer][link2] 
+
+[link1]: https://www.youtube.com/watch?v=jmGbgMPb408
+[link2]: https://www.youtube.com/watch?v=jQN-4JjTuqM
+
+<br/>
+<br/>
+
+**Lectures associées**: 
+
+_Prélue à la fondation_ par Asimov 
+
+
