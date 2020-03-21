@@ -1,0 +1,36 @@
+---
+layout: post
+title:  "rEnnes"
+date:   2020-03-01 07:11:03
+description: Vestige
+thumbnail: rennes.jpeg
+categories: vestige
+
+# Information for the author block
+author: Arwen Lourex
+---
+
+
+
+
+![](/assets/img/notes.png){:height="20px" width="20px"} [Rone - Parade][link1] 
+
+Rires et alcool -
+
+Allongée dans les herbes
+
+Bercée par la nuit 
+
+![](/assets/img/notes.png){:height="20px" width="20px"}[The Glitch Mob - Animus Vox][link2] 
+
+[link1]: https://www.youtube.com/watch?v=bB4yjbd_EWI
+[link2]: https://www.youtube.com/watch?v=17PM-UMVud8
+
+<br/>
+<br/>
+
+**Lectures associées**: 
+
+_Petit pays_ par Gaël Faye 
+
+

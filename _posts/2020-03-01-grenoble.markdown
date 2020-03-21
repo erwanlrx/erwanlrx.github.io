@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Grenoble"
-date:   2020-03-01 01:11:03
+date:   2020-03-01 02:11:03
 description: Vestige
 thumbnail: grenoble.jpg
 categories: vestige
@@ -31,6 +31,6 @@ L'esprit s'enflamme
 
 **Lectures associées**: 
 
-_Prélue à la fondation_ par Asimov 
+_Prélude à la fondation_ par Asimov 
 
 
