@@ -1,0 +1,36 @@
+---
+layout: post
+title:  "bElle île 	"
+date:   2020-03-01 01:11:03
+description: Vestige
+thumbnail: belle_ile.jpg
+categories: vestige
+
+# Information for the author block
+author: Arwen Lourex
+---
+
+
+
+
+![](/assets/img/notes.png){:height="20px" width="20px"} [PAVANE - La danse de Daphnis][link1] 
+
+Palais de l'amour - 
+
+Communier, autour d'un feu,
+
+Face à la mer
+
+![](/assets/img/notes.png){:height="20px" width="20px"}[France Gall - Ella Elle L'a (Folamour Edit)][link2] 
+
+[link1]: https://www.youtube.com/watch?v=i-f0shP91Dc&list=RDUnuz-Ub3r9Q&index=6
+[link2]: https://www.youtube.com/watch?v=cm2vvGWvxgM
+
+<br/>
+<br/>
+
+**Lectures associées**: 
+
+_Vernon Subutex_ par Despentes 
+
+
