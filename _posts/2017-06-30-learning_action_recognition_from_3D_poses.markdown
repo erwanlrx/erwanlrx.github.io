@@ -4,16 +4,13 @@ title:  "Learning action recognition from 3D poses"
 date:   2017-06-30 10:00:00
 description: Master research thesis
 thumbnail: master.png
-categories: science
+categories: publications
 
 # Information for the author block
 author: Erwan Le Roux
 ---
 
-<a href="../../../../files/msiam-master-thesis.pdf">Master thesis - Learning action from 3D poses </a>
-
-
-## Abstract
+<a href="../../../../files/msiam-master-thesis.pdf">Learning action from 3D poses </a>
 
 
 Human action recognition is a classical problem in computer vision, with applications spanning human-computer interaction, video surveillance, and robotics. Skeleton based action recognition, also called 3D pose based action recognition, has recently attracted increasing attention due to 
