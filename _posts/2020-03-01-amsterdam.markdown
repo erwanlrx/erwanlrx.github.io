@@ -15,7 +15,12 @@ author: Arwen Lourex
 
 ![](/assets/img/notes.png){:height="20px" width="20px"}[Bon Iver - 8 (circle) ][link1] 
 
+Des feuilles partout 
 
+Panorama orangé -
+
+Virée sur les ponts 
+	
 
 ![](/assets/img/notes.png){:height="20px" width="20px"}[Burial - Archangel][link2] 
 
@@ -27,6 +32,6 @@ author: Arwen Lourex
 
 **Lectures associées**: 
 
-_Martin Eden_ par Jack London 
+_Janua Vera_ par Jean-Philippe Jaworski 
 
 
