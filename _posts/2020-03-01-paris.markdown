@@ -1,0 +1,32 @@
+---
+layout: post
+title:  "pariS"
+date:   2020-03-01 06:11:03
+description: Vestige
+thumbnail: paris.jpg
+categories: vestige
+
+# Information for the author block
+author: Arwen Lourex
+---
+
+
+
+
+![](/assets/img/notes.png){:height="20px" width="20px"} [Nicolas Godin - Bach off][link1] 
+
+
+
+![](/assets/img/notes.png){:height="20px" width="20px"}[Ratatat - Cream on Chrome][link2] 
+
+[link1]: https://www.youtube.com/watch?v=3LiW6OKHLaU
+[link2]: https://www.youtube.com/watch?v=xlcywgEMuGI
+
+<br/>
+<br/>
+
+**Lectures associées**: 
+
+_Martin Eden_ par Jack London 
+
+

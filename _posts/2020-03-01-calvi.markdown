@@ -1,0 +1,36 @@
+---
+layout: post
+title:  "calVi"
+date:   2020-03-01 08:11:03
+description: Vestige
+thumbnail: calvi.jpg
+categories: vestige
+
+# Information for the author block
+author: Arwen Lourex
+---
+
+
+
+
+![](/assets/img/notes.png){:height="20px" width="20px"} [Agar Agar - Fangs Out][link1] 
+
+Chaleur écrasante -
+
+Crépuscule au sommet,
+
+d'un rocher marin
+
+![](/assets/img/notes.png){:height="20px" width="20px"}[Kate Bush - Running Up That Hill (A Deal With God)][link2] 
+
+[link1]: https://www.youtube.com/watch?v=-wwxdKdCWf0
+[link2]: https://www.youtube.com/watch?v=8rIjsa85UVk
+
+<br/>
+<br/>
+
+**Lectures associées**: 
+
+_Petit pays_ par Gaël Faye 
+
+
