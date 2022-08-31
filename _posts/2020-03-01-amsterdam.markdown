@@ -7,7 +7,7 @@ thumbnail: amsterdam.jpg
 categories: vestige
 
 # Information for the author block
-author: Arwen Lourex
+author: Louxa Werner
 ---
 
 

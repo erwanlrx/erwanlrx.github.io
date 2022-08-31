@@ -1,0 +1,29 @@
+---
+layout: post
+title:  "Voyage"
+date:   2022-03-01 07:11:03
+description: IleEtAile
+thumbnail: locquirec.jpg
+categories: ileetaile
+
+# Information for the author block
+author: Laure Neworx
+---
+
+Douce inspiration, 
+
+La lavande du printemps, 
+
+Apaise les cœurs
+
+
+![](/assets/img/notes.png){:height="20px" width="20px"}[Rone - Opening][link1] 
+
+[link1]: https://www.youtube.com/watch?v=DHgE0Kn7zqE
+
+<br/>
+<br/>
+
+
+
+

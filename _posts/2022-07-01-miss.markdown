@@ -1,0 +1,39 @@
+---
+layout: post
+title:  "Miss"
+date:   2022-07-01 07:11:03
+description: IleEtAile
+thumbnail: barra.jpg
+categories: ileetaile
+
+# Information for the author block
+author: Laure Neworx
+---
+
+
+Tu me manques,
+
+Ton énergie, tes iris, ton sourire,
+
+Tout me manque,
+
+Ton génie, ta peau lisse, tes soupirs,
+
+Tout me revient, 
+
+Ton dos nu, tes jolies fesses, ta sueur,
+
+Tu me reviens, 
+
+Tes mots doux, ta tendresse, ton p’tit coeur.
+
+![](/assets/img/notes.png){:height="20px" width="20px"}[Capercaillie - Arrival Theme][link1] 
+
+[link1]: https://www.youtube.com/watch?v=wlIuwovj274
+
+<br/>
+<br/>
+
+
+
+

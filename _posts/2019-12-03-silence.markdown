@@ -7,7 +7,7 @@ thumbnail: silence.jpg
 categories: o_cinema
 
 # Information for the author block
-author: Laure Neworx
+author: Warner Luxeo
 ---
 
 
