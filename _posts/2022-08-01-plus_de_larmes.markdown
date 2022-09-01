@@ -32,7 +32,7 @@ transpercent la toile.
 
 Leurs rayons sur la voûte 
 
-assèche les gouttes
+assèchent les gouttes
 
 des chagrins de la nuit. 
 
